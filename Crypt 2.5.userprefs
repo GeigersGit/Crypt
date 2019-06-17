@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\AudioFadeOut.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\AudioFadeOut.js" Line="24" Column="33" />
+      <File FileName="Assets\Standard Assets\Scripts\SprintController.js" Line="19" Column="33" />
+      <File FileName="Assets\Standard Assets\Scripts\CharacterMotor.js" Line="359" Column="34" />
+      <File FileName="Assets\Standard Assets\Scripts\HeadbobScript.js" Line="12" Column="36" />
+      <File FileName="Assets\Standard Assets\Scripts\Text_Controller.js" Line="28" Column="34" />
+      <File FileName="Assets\Standard Assets\Scripts\Opening Camera.js" Line="22" Column="34" />
+      <File FileName="Assets\Standard Assets\Scripts\FadeInOut.js" Line="53" Column="2" />
+      <File FileName="Assets\Standard Assets\Scripts\StandCheck.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\LightFlicker1.js" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

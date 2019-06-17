@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\KillBoxScript.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\KillBoxScript.js" Line="4" Column="7" />
+      <File FileName="Assets\Standard Assets\Scripts\Opening Camera.js" Line="8" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\FadeInOut.js" Line="54" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\DeathReturn.js" Line="12" Column="26" />
+      <File FileName="Assets\Standard Assets\Scripts\opentriggerscript.js" Line="2" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

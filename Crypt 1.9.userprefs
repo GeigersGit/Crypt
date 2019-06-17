@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\opentriggerscript.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\opentextscript.js" Line="7" Column="23" />
+      <File FileName="Assets\Standard Assets\Scripts\opentriggerscript.js" Line="19" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\TriggerTeleport.js" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

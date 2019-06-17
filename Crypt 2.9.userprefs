@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\opentriggerscript.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\opentriggerscript.js" Line="10" Column="3" />
+      <File FileName="Assets\Standard Assets\Scripts\trapscript.js" Line="14" Column="6" />
+      <File FileName="Assets\Standard Assets\Scripts\DeathReturn.js" Line="11" Column="23" />
+      <File FileName="Assets\Standard Assets\Scripts\flamemove.js" Line="8" Column="35" />
+      <File FileName="Assets\Standard Assets\Scripts\CharacterMotor.js" Line="362" Column="28" />
+      <File FileName="Assets\Standard Assets\Scripts\Sprintbarcamera.js" Line="24" Column="24" />
+      <File FileName="Assets\Standard Assets\Scripts\HeadbobScript.js" Line="52" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
